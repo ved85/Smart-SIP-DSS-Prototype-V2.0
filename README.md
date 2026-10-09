@@ -12,7 +12,7 @@ A Python-based multi-page Decision Support System (DSS) that helps farmers, inve
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="assets/start_page.png" alt="start_page" width="100%"/>
+      <img src="assets/1start_page.png" alt="start_page" width="100%"/>
       <br/>
       <sub><b>start_page</sub>
     </td>
