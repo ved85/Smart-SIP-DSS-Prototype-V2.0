@@ -17,15 +17,12 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
     menu_items={
-        "Get Help": "vedant.varma@mail.bcu.ac.uk",
         "About": (
             "**SMART-SIP+ Decision Support System Prototype** v2.0\n\n"
             "Discription: Made for UKRI-funded project to reduce CO₂ emissions in rural Bangladesh "
             "by transitioning diesel irrigation infrastructure to solar power.\n\n"
             "MADE BY: VEDANT VARMA"
             "©Vedant Varma | All Rights Reserved\n\n"
-            "**PI:** Dr. Lynsey Melville, Birmingham City University\n"
-            "**Contact:** lynsey.melville@bcu.ac.uk"
         ),
     },
 )
@@ -123,6 +120,6 @@ with col4:
 
 st.divider()
 st.caption(
-    "SMART-SIP+ DSS Prototype v2.0 · Open-source · "
+    "SMART-SIP+ DSS Prototype v2.0 · "
     "Powered by Google Earth Engine · Streamlit · Python based GIS and Data analysis Tools"
 )
