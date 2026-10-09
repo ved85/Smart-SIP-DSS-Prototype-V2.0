@@ -8,6 +8,49 @@
 A Python-based multi-page Decision Support System (DSS) that helps farmers, investors, and policymakers evaluate the transition from diesel to solar irrigation across rural Bangladesh. All spatial and climate data is retrieved live from **Google Earth Engine (GEE)**. Everything else runs locally with a SQLite cache.
 
 ---
+## Screenshots
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="<img width="1919" height="928" alt="1start_page" src="https://github.com/user-attachments/assets/8672dda2-4df6-4636-a19a-ee6fb57d3e28" />
+" alt="start_page" width="100%"/>
+      <br/>
+      <sub><b>start_page</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/screenshots/02_business_case.png" alt="Business Case — CAPEX, payback period, NPV, IRR and 25-year cash flow chart" width="100%"/>
+      <br/>
+      <sub><b>₿ Business Case</b> — Full hydraulic model (ERA5-Land → FAO-56 water balance → pump kW → PV kWp) with CAPEX breakdown, 25-yr NPV, IRR and LCOE.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/screenshots/03_regional_map.png" alt="Regional Map — district-level GIS with GEE satellite base and JRC flood occurrence overlay" width="100%"/>
+      <br/>
+      <sub><b>🗺 Regional Map</b> — District-level GIS on GEE satellite base with aquifer vulnerability layer and JRC flood occurrence overlay toggled on.</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/screenshots/04_climate_gee.png" alt="Climate & GEE — ERA5-Land daily GHI and temperature charts" width="100%"/>
+      <br/>
+      <sub><b>☁ Climate & GEE</b> — Daily ERA5-Land GHI and temperature series (last 365 days) with 7-day rolling average. All results cached in SQLite.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/screenshots/05_energy_model.png" alt="Energy Model — 24-hour solar generation vs irrigation load with surplus allocation donut" width="100%"/>
+      <br/>
+      <sub><b>⚡ Energy Model</b> — 24-hour simulation using ERA5-Land GHI and real daylight window. Surplus routed to cold storage, e-rickshaw chargers and grid.</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/screenshots/06_dashboard.png" alt="Dashboard — multi-district GEE ERA5 climate overlay and cached Sentinel-2 NDVI analytics" width="100%"/>
+      <br/>
+      <sub><b>📊 Dashboard</b> — Multi-location ERA5-Land GHI comparison overlay and cached Sentinel-2 NDVI, SRTM elevation and JRC flood risk bars.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 
 ## Table of Contents
 
