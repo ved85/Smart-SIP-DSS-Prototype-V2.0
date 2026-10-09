@@ -14,12 +14,12 @@ A Python-based multi-page Decision Support System (DSS) that helps farmers, inve
     <td align="center" width="50%">
       <img src="assets/1start_page.png" alt="start_page" width="100%"/>
       <br/>
-      <sub><b>start_page</sub>
+      <sub><b>Start_page</sub>
     </td>
     <td align="center" width="50%">
-      <img src="assets/screenshots/02_business_case.png" alt="Business Case — CAPEX, payback period, NPV, IRR and 25-year cash flow chart" width="100%"/>
+      <img src="assets/2dashboard.png" width="100%"/>
       <br/>
-      <sub><b>₿ Business Case</b> — Full hydraulic model (ERA5-Land → FAO-56 water balance → pump kW → PV kWp) with CAPEX breakdown, 25-yr NPV, IRR and LCOE.</sub>
+      <sub><b>Dashboard</sub>
     </td>
   </tr>
   <tr>
