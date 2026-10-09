@@ -2,9 +2,6 @@
 
 **Version:** 2.0  
 **Made by:** Vedant Varma  
-**Project:** UKRI-funded · Birmingham City University, Department of Engineering  
-**PI:** Dr Lynsey Melville · [lynsey.melville@bcu.ac.uk](mailto:lynsey.melville@bcu.ac.uk)  
-**Contact:** [vedant.varma@mail.bcu.ac.uk](mailto:vedant.varma@mail.bcu.ac.uk)
 
 > *Solar-powered Irrigation Transition for Bangladesh — Pathways to Net Zero Agriculture*
 
@@ -375,6 +372,4 @@ Set in the **Scenario Simulator** sidebar → expand **National drivers** → ed
 ---
 
 ## Licence
-
-Open-source · © Vedant Varma · All Rights Reserved  
-UKRI-funded project · Birmingham City University, Department of Engineering
+© Vedant Varma · All Rights Reserved 
