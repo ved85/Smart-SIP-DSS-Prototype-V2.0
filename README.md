@@ -24,9 +24,9 @@ A Python-based multi-page Decision Support System (DSS) that helps farmers, inve
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="assets/screenshots/03_regional_map.png" alt="Regional Map — district-level GIS with GEE satellite base and JRC flood occurrence overlay" width="100%"/>
+      <img src="assets/3site_analysis_custome_drawn_land_ parcel.png" width="100%"/>
       <br/>
-      <sub><b>🗺 Regional Map</b> — District-level GIS on GEE satellite base with aquifer vulnerability layer and JRC flood occurrence overlay toggled on.</sub>
+      <sub><b>Site_analysis_custome_drawn_land_parcel</sub>
     </td>
     <td align="center" width="50%">
       <img src="assets/screenshots/04_climate_gee.png" alt="Climate & GEE — ERA5-Land daily GHI and temperature charts" width="100%"/>
