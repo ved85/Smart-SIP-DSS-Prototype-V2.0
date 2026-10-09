@@ -1,0 +1,14 @@
+streamlit
+plotly
+geopandas
+pandas
+numpy
+folium
+streamlit-folium
+geemap
+earthengine-api
+shapely
+pyproj
+matplotlib
+reportlab
+python-dotenv
