@@ -29,21 +29,33 @@ A Python-based multi-page Decision Support System (DSS) that helps farmers, inve
       <sub><b>Site_analysis_custome_drawn_land_parcel</sub>
     </td>
     <td align="center" width="50%">
-      <img src="assets/screenshots/04_climate_gee.png" alt="Climate & GEE — ERA5-Land daily GHI and temperature charts" width="100%"/>
+      <img src="assets/7business_case_builder_summary.png" width="100%"/>
       <br/>
-      <sub><b>☁ Climate & GEE</b> — Daily ERA5-Land GHI and temperature series (last 365 days) with 7-day rolling average. All results cached in SQLite.</sub>
+      <sub><b>Business_case_builder_summary</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="assets/screenshots/05_energy_model.png" alt="Energy Model — 24-hour solar generation vs irrigation load with surplus allocation donut" width="100%"/>
+      <img src="assets/12energy_flow_model.png" width="100%"/>
       <br/>
-      <sub><b>⚡ Energy Model</b> — 24-hour simulation using ERA5-Land GHI and real daylight window. Surplus routed to cold storage, e-rickshaw chargers and grid.</sub>
+      <sub><b>Energy_flow_model</sub>
     </td>
     <td align="center" width="50%">
-      <img src="assets/screenshots/06_dashboard.png" alt="Dashboard — multi-district GEE ERA5 climate overlay and cached Sentinel-2 NDVI analytics" width="100%"/>
+      <img src="assets/14regioanl_overview.png" width="100%"/>
       <br/>
-      <sub><b>📊 Dashboard</b> — Multi-location ERA5-Land GHI comparison overlay and cached Sentinel-2 NDVI, SRTM elevation and JRC flood risk bars.</sub>
+      <sub><b>Regioanl_overview</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/15scenario_simulator.png" width="100%"/>
+      <br/>
+      <sub><b>Scenario_simulator</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/18climate_observation.png" width="100%"/>
+      <br/>
+      <sub><b>Climate_observation</sub>
     </td>
   </tr>
 </table>
